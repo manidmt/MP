@@ -1,0 +1,61 @@
+
+Reading from ./data/SegundoCaso.dataset
+Number of events with non null session in index: 400
+After filtering sessions (type == cart): 400 sessions
+There are 10 unique brands in the filtered sessions
+Adjacency Matrix 
+10 10
+[ypsed likato biofollica roubloff profhenna estrade missha almea beauty-free deoproce ]
+[ypsed likato biofollica roubloff profhenna estrade missha almea beauty-free deoproce ]
+0 8 3 5 4 5 9 5 3 5 
+8 0 2 7 6 2 5 5 4 3 
+3 2 0 2 2 2 3 1 7 1 
+5 7 2 0 3 3 2 4 6 2 
+4 6 2 3 0 2 3 7 4 4 
+5 2 2 3 2 0 5 7 4 1 
+9 5 3 2 3 5 0 3 5 2 
+5 5 1 4 7 7 3 0 6 1 
+3 4 7 6 4 4 5 6 0 5 
+5 3 1 2 4 1 2 1 5 0 
+
+1 10
+[ypsed ]
+[almea beauty-free biofollica deoproce estrade likato missha profhenna roubloff ypsed ]
+0.133278 0.115151 0.0659499 0.0930988 0.0987943 0.0858505 0.101759 0.106075 0.132344 0.067699 
+
+1 10
+[ypsed ]
+[almea beauty-free biofollica deoproce estrade likato missha profhenna roubloff ypsed ]
+0.126217 0.115221 0.0706726 0.0965574 0.0982026 0.0888642 0.103794 0.108475 0.11914 0.072857 
+
+1 10
+[ypsed ]
+[almea beauty-free biofollica deoproce estrade likato missha profhenna roubloff ypsed ]
+0.12837 0.115256 0.0691914 0.0956201 0.0986907 0.0885704 0.102965 0.107634 0.122237 0.0714657 
+
+1 10
+[ypsed ]
+[almea beauty-free biofollica deoproce estrade likato missha profhenna roubloff ypsed ]
+0.127772 0.115253 0.0695645 0.0958707 0.0985116 0.088577 0.103249 0.107963 0.121396 0.071843 
+
+1 10
+[ypsed ]
+[almea beauty-free biofollica deoproce estrade likato missha profhenna roubloff ypsed ]
+0.12794 0.115256 0.0694625 0.0958024 0.098573 0.0885917 0.10316 0.107854 0.121624 0.0717369 
+
+1 10
+[ypsed ]
+[almea beauty-free biofollica deoproce estrade likato missha profhenna roubloff ypsed ]
+0.127893 0.115255 0.0694906 0.0958214 0.0985534 0.0885843 0.103187 0.107888 0.121561 0.0717669 
+
+1 10
+[ypsed ]
+[almea beauty-free biofollica deoproce estrade likato missha profhenna roubloff ypsed ]
+0.127906 0.115255 0.0694827 0.095816 0.0985595 0.0885871 0.103179 0.107878 0.121578 0.0717584 
+
+
+
+    0.1279    0.1153    0.0695    0.0958    0.0986    0.0886    0.1032    0.1079    0.1216    0.0718    1.0000
+
+     almeabeauty-frebiofollica  deoproce   estrade    likato    missha profhenna  roubloff     ypsed
+
